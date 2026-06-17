@@ -119,7 +119,7 @@ span{
 }
 .image img{
     position: relative;
-    width: 55vh;
+    width: 50vh;
     border-radius:50% ;
     box-shadow: 0 0 25px solid #D6FFF6;
     transition: 0.2s linear;
